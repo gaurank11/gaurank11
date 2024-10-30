@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **FitTrack - Intelligent Sports Training and Performance Monitoring System**
 
 - 🌱 I am continuously learning and exploring **new technologies, particularly in the fields of deep learning and blockchain development. I have hands-on experience with frameworks like TensorFlow and PyTorch, and I'm excited about developing decentralized applications (dApps) and exploring the potential of smart contracts.**
+- 🚀 In my projects, **I strive to create innovative solutions that address real-world problems. I believe in the power of open-source collaboration and am eager to contribute to projects that align with my interests.**
 
 - 👨‍💻 All of my projects are available at [gauranksharma.tech](gauranksharma.tech)
 
