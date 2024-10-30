@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Gaurank Sharma</h1>
 <h1>A Passionate Full Stack Developer, Web3 Developer, ML and DL Enthusiast</h1>
 
-<h3>I specialize in building robust web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and have a keen interest in integrating machine learning and Web3 technologies into my projects.</h3>
+<h2>I specialize in building robust web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and have a keen interest in integrating machine learning and Web3 technologies into my projects.</h2>
 
 - 🔭 I’m currently working on **FitTrack - Intelligent Sports Training and Performance Monitoring System**
 
