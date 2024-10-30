@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaurank Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer, Web3 Developer, ML and DL Enthusiast</h3>
+<h1>Hi 👋, I'm Gaurank Sharma</h1>
+<h1>A passionate Full Stack Developer, Web3 Developer, ML and DL Enthusiast</h1>
 
 - 🔭 I’m currently working on **FitTrack - Intelligent Sports Training and Performance Monitoring System**
 
