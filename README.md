@@ -28,6 +28,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurank11&show_icons=true&locale=en&layout=compact" alt="gaurank11" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurank11&show_icons=true&locale=en" alt="gaurank11" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurank11&" alt="gaurank11" /></p>
 
