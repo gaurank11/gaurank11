@@ -3,15 +3,8 @@
 
 <h2>I specialize in building robust web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and have a keen interest in integrating machine learning and Web3 technologies into my projects.</h2>
 
-- 🔭 I’m currently working on **FitTrack - Intelligent Sports Training and Performance Monitoring System**
-
-- 🌱 I am continuously learning and exploring **new technologies, particularly in the fields of deep learning and blockchain development. I have hands-on experience with frameworks like TensorFlow and PyTorch, and I'm excited about developing decentralized applications (dApps) and exploring the potential of smart contracts.**
-- 🚀 In my projects, **I strive to create innovative solutions that address real-world problems. I believe in the power of open-source collaboration and am eager to contribute to projects that align with my interests.**
-
 
 - 📫 How to reach me **nikhilsinghcontact@gmail.com**
-
-- 📄 Know about my experiences [http:](http:)
 
 
 <h3 align="left">Connect with me:</h3>
