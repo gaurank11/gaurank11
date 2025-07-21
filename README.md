@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Gaurank Sharma</h1>
-<h1>A Passionate Full Stack Developer, Web3 Developer, ML and DL Enthusiast</h1>
+<h1>Hi 👋, I'm Nikhil Singh</h1>
+<h1>A Passionate Full Stack Developer</h1>
 
 <h2>I specialize in building robust web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and have a keen interest in integrating machine learning and Web3 technologies into my projects.</h2>
 
@@ -8,19 +8,15 @@
 - 🌱 I am continuously learning and exploring **new technologies, particularly in the fields of deep learning and blockchain development. I have hands-on experience with frameworks like TensorFlow and PyTorch, and I'm excited about developing decentralized applications (dApps) and exploring the potential of smart contracts.**
 - 🚀 In my projects, **I strive to create innovative solutions that address real-world problems. I believe in the power of open-source collaboration and am eager to contribute to projects that align with my interests.**
 
-- 👨‍💻 All of my projects are available at [gauranksharma.tech](gauranksharma.tech)
 
-- 📫 How to reach me **sharmagaurank63@gmail.com**
+- 📫 How to reach me **nikhilsinghcontact@gmail.com**
 
 - 📄 Know about my experiences [http:](http:)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/gaurank_sharma?t=3lcbdueuzex_45t3ftz7jq&s=09" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1683500894644498435/bwnq-s8f_400x400.jpg" alt="https://x.com/gaurank_sharma?t=3lcbdueuzex_45t3ftz7jq&s=09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gaurank-sharma-8b3180217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurank-sharma-8b3180217/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/sharmagaurank63/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sharmagaurank63/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/sharmagaurank63/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sharmagaurank63/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-singh-643532219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-singh-643532219/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
